@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## USC AI Safety
+USC AI Safety is organizing a fellowship on aligning AI with human values. Fellows will meet for a weekly discussions of readings on AI safety, and will work on a semester-long project in AI alignment. 
 
-You can use the [editor on GitHub](https://github.com/usc-aisc/usc-aisc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/usc-aisc/usc-aisc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Click here]<broken> to apply to the fellowship. 
+  
+### Curriculum
+The fellowship draws from two curriculums designed by leaders in the field of AI safety:
+* [AGI Safety Fundamentals]<https://docs.google.com/document/d/1mTm_sT2YQx3mRXQD6J2xD2QJG1c3kHyvX8kQc_IQ0ns/edit?usp=sharing> (Richard Ngo, OpenAI)
+* [ML Safety Scholars]<https://course.mlsafety.org/> (Dan Hendrycks, UC Berkeley)
