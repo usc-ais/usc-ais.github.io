@@ -7,5 +7,4 @@ The fellowship draws from two curriculums designed by leaders in the field of AI
 * [ML Safety Scholars](https://course.mlsafety.org/) (Dan Hendrycks, UC Berkeley)
 
 ### Application
-To apply to the fellowship, **[click here]**(broken).
-
+To apply to the fellowship, **[click here](broken)**.
